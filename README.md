@@ -51,4 +51,4 @@ This repository contains the following:
 
 2)'variant_calling' folder: It contains the assembled genome (assembly.fasta), the Variant Call format file (difference_flye_ref.vcf.gz), the sorted .BAM file containing the alignment between the reference and assembled genome (align.sorted.bam) and the associated .BAM index file (align.sorted.bam.bai). It also contains the reference (GCF_000006945.2_ASM694v2_genomic.fna) and annotated (GCF_000006945.2_ASM694v2_genomic.gff) genomes used.
 
-3)'assembly_visualization' folder: It contains the Graphical Fragment Assembly (assembly_graph.gfa) of the assembled genome.
+3)'assembly_visualization' folder: It contains the Graphical Fragment Assembly file (assembly_graph.gfa) of the assembled genome.
