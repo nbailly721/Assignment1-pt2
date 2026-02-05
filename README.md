@@ -17,19 +17,19 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/de1a5636-8916-4faa-8d0c-e35cace227c0" width="700" />
   <br />
-  <em>Figure 2.0: Contig 2 of the assembled genome of <i>Salmonella enterica</i> using the Flye package. It shows a higher coverage than contigs 3 and 4.</em>
+  <em>Figure 2.0: Visualization of the assembled genome of <i>Salmonella enterica</i>. It shows a higher coverage than contigs 3 and 4.</em>
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bf154184-e891-4ccc-a855-411259c80ca0" width="700" />
   <br />
-  <em>Figure 2.1: Contig 3 of the assembled genome of <i>Salmonella enterica</i> using the Flye package. It shows a lower coverage than contig 2.</em>
+  <em>Figure 2.1: Visualization of the assembled genome of <i>Salmonella enterica</i>. It shows a lower coverage than contig 2.</em>
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7405e679-49b3-4694-92b7-a791b5237b41" width="700" />
   <br />
-  <em>Figure 2.2: Contig 4 of the assembled genome of <i>Salmonella enterica</i> using the Flye package. It shows a lower coverage than contig 2.</em>
+  <em>Figure 2.2: Visualization of the assembled genome of <i>Salmonella enterica</i>. It shows a lower coverage than contig 2.</em>
 </p>
 
 
