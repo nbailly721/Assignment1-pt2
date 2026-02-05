@@ -22,13 +22,13 @@
 
 <p align="center">
   <img
-"https://github.com/user-attachments/assets/03f1d76e-08ae-4de4-8960-131c848b85eb" width="700" />
+"img src="https://github.com/user-attachments/assets/03f1d76e-08ae-4de4-8960-131c848b85eb" width="700" />
   <em>Figure 1: SOP A workflow screentime </em>
 </p>
 
 <p align="center">
   <img
-"https://github.com/user-attachments/assets/2878d07c-a72e-4f20-b684-70c6c7a63768"  width="700" />
+"img src="https://github.com/user-attachments/assets/2878d07c-a72e-4f20-b684-70c6c7a63768"  width="700" />
   <em>Figure 1: SOP A workflow screentime </em>
 </p>
 
