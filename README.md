@@ -1,3 +1,4 @@
+**Introduction**
 
 **Methods**
 
@@ -38,7 +39,11 @@
   <em>Figure 3.2: Visualization of the assembled genome of <i>Salmonella enterica</i> using the Interactive Genome Viewer. It shows a lower coverage than contig 2.</em>
 </p>
 
+  **Discussion**
 
+  **References**
+
+  **Repository structure and files**
 
 
 
@@ -47,3 +52,6 @@
 **References**
 
 **Structure of Repository**
+
+This repository containes the following:
+1)'Script.sh': Bash script used to perform the variant calling between the reference genome and the assembled genome.
