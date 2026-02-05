@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/583ce049-1880-47f7-8a16-2aed4e17d561" width="700" />
+  <img src="https://github.com/user-attachments/assets/de1a5636-8916-4faa-8d0c-e35cace227c0" width="700" />
   <br />
   <em>Figure 2.0: Contig 2 of the assembled genome of <i>Salmonella enterica</i> using the Flye package. It shows a higher coverage than contigs 3 and 4.</em>
 </p>
