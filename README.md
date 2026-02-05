@@ -17,7 +17,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5146badb-f3f9-4d23-a2e8-b1f1e6416b74" width="700" />
     <br>
-  <em>Figure 2.0: Genome
+  <em>Figure 2.0: Visualization of the assembled genome of Salmonella enterica using the Bandage software. It shows the depth (x) and length (bp) of the nodes.
 </p>
 
 <p align="center">
