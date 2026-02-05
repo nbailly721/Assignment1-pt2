@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e71f83cf-44ce-4a44-a77a-771ecee8c43c" width="700" />
   <br>
-  <em>Figure 1.0: Visualization of the differences between the reference and assembled genome (_Salmonella Enterica_) using variant calling. Specifically, there is a transversion mutation at the sopA gene (Adenine to Cytosine). While the 'A' belongs to the reference genome, the 'C' is part of the assembled genome.
+  <em>Figure 1.0: Visualization of the differences between the reference and assembled genome (_Salmonella Enterica) using variant calling. Specifically, there is a transversion mutation at the sopA gene (Adenine to Cytosine). While the 'A' belongs to the reference genome, the 'C' is part of the assembled genome.
 </p>
 
 <p align="center">
