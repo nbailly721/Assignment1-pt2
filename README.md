@@ -55,3 +55,5 @@
 
 This repository containes the following:
 1)'Script.sh': Bash script used to perform the variant calling between the reference genome and the assembled genome.
+2)'variant_calling' folder
+3)
