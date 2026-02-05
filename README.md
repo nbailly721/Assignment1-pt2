@@ -47,5 +47,7 @@
 
 This repository contains the following:
 1)'Script.sh': Bash script used to perform the variant calling between the reference genome and the assembled genome.
+
 2)'variant_calling' folder: It contains the assembled genome (assembly.fasta), the Variant Call format (difference_flye_ref.vcf.gz), the sorted .BAM file containing the alignment between the reference and assembled genome (align.sorted.bam) and the associated .BAM file index (align.sorted.bam.bai). It also contains the reference (GCF_000006945.2_ASM694v2_genomic.fna) and annotated (GCF_000006945.2_ASM694v2_genomic.gff) genomes used.
+
 3)'assembly_visualization' folder: It contains the Graphical Fragment Assembly (assembly_graph.gfa) of the assembled genome.
