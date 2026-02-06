@@ -72,25 +72,45 @@ A similar scenario is seen with the sopA gene, which is also found in the chromo
   **References**
 
 1.Antipov, D. et al. (2016) Plasmidspades: Assembling plasmids from whole genome sequencing data. doi:10.1101/048942. 
+
 2.Bobik, T.A. et al. (1999) ‘The propanediol utilization (pdu) operon of salmonella enterica serovar typhimurium LT2 includes genes necessary for formation of polyhedral organelles involved in coenzyme B12-dependent 1,2-propanediol degradation’, Journal of Bacteriology, 181(19), pp. 5967–5975. doi:10.1128/jb.181.19.5967-5975.1999.
+
 3.Dana-Farber Cancer Institute (2018) Minimap2, GitHub. Available at: https://github.com/lh3/minimap2?tab=License-1-ov-file (Accessed: 17 January 2026).
+
 4.Genome Research Ltd. (2025) Samtools, GitHub. Available at: https://github.com/samtools/samtools?tab=License-1-ov-file (Accessed: 17 January 2026).
+
 5.Hammarlöf, D.L. et al. (2018) ‘Role of a single noncoding nucleotide in the evolution of an epidemic African clade of salmonella’, Proceedings of the National Academy of Sciences, 115(11). doi:10.1073/pnas.1714718115.
+
 6.Kolmogorov, M. (2016) Flye, GitHub. Available at: https://github.com/mikolmogorov/Flye/tree/flye?tab=License-1-ov-file (Accessed: 17 January 2026).
+
 7.Li, C. et al. (2021) ‘Long-read sequencing reveals evolution and acquisition of antimicrobial resistance and virulence genes in Salmonella enterica’, Frontiers in Microbiology, 12. doi:10.3389/fmicb.2021.777817.
+
 8.Li, H. (2012) Seqtk, GitHub. Available at: https://github.com/lh3/seqtk?tab=MIT-1-ov-file (Accessed: 17 January 2026).
+
 9.Lu, H., Giordano, F. and Ning, Z. (2016) ‘Oxford Nanopore Minion Sequencing and Genome Assembly’, Genomics, Proteomics & Bioinformatics, 14(5), pp. 265–279. doi:10.1016/j.gpb.2016.05.004.
+
 10.National Center for Biotechnology Information. HowTo: fasterq dump, Github. Available at https://github.com/ncbi/sra-tools/wiki/HowTo:-fasterq-dump (Accessed: 2 February 2026).
+
 11.Pang, S. et al. (2013) ‘Genomic diversity and adaptation of salmonella enterica serovar typhimurium from analysis of six genomes of different phage types’, BMC Genomics, 14(1). doi:10.1186/1471-2164-14-718. 
+
 12.Robinson, P. and Zemo, J. T. (2017) ‘Integrative genomics viewer (IGV): Visualizing alignments and variants’, Computational Exome and Genome Analysis, pp. 233–245. doi:10.1201/9781315154770-17.
+
 13.Saada, B. et al. (2024) ‘Whole genome alignment: Methods, challenges, and future directions’, Applied sciences. doi:10.20944/preprints202402.1197.v1.
+
 14.SAMtools Team. BCFtools HOW TO. Available at: https://samtools.github.io/bcftools/howtos/index.html (Accessed: 17 January 2026).
+
 15.Smits, T.H. (2019) ‘The importance of genome sequence quality to microbial comparative genomics’, BMC Genomics, 20(1). doi:10.1186/s12864-019-6014-5.
+
 16.Thomas, C. et al. (2025) ‘Accurately assembling nanopore sequencing data of highly pathogenic bacteria’, BMC Genomics, 26(1). doi:10.1186/s12864-025-11793-6.
+
 17.Weeks, N.T. and Luecke, G.R. (2017) ‘Optimization of SAMtools sorting using openmp tasks’, Cluster Computing, 20(3), pp. 1869–1880. doi:10.1007/s10586-017-0874-8.
-18.Wick, R.R. et al. (2015) ‘Bandage: Interactive visualization of de novo                    genome assemblies’, Bioinformatics, 31(20), pp. 3350–3352. doi:10.1093/bioinformatics/btv383. 
+
+18.Wick, R.R. et al. (2015) ‘Bandage: Interactive visualization of de novo genome assemblies’, Bioinformatics, 31(20), pp. 3350–3352. doi:10.1093/bioinformatics/btv383. 
+
 19.Wick, R.R. and Holt, K.E. (2020) ‘Benchmarking of long-read assemblers for prokaryote whole genome sequencing’, F1000Research, 8, p. 2138. doi:10.12688/f1000research.21782.3.
+
 20.Wood, M.W. et al. (2001) ‘The secreted effector protein of Salmonella Dublin, SOPA, is translocated into eukaryotic cells and influences the induction of enteritis’, Cellular Microbiology, 2(4), pp. 293–303. doi:10.1046/j.1462-5822.2000.00054.x.
+
 21.Zverinova, S. and Guryev, V. (2022) ‘Variant calling: Considerations, practices, and developments’, Human Mutation, 43(8), pp. 976–985. doi:10.1002/humu.24311.
 
 
