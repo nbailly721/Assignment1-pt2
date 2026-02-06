@@ -24,13 +24,13 @@ The visualized differences between the reference and assembled genomes were anal
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e71f83cf-44ce-4a44-a77a-771ecee8c43c" width="700" />
   <br>
-  <em>Figure 1.0: Visualization of the differences between the reference and assembled genome (Salmonella Enterica) using variant calling. Specifically, there is a transversion mutation at the sopA gene (Adenine to Cytosine). While the 'A' belongs to the reference genome, the 'C' is part of the assembled genome.
+  <em>Figure 1.0: Visualization of the differences between the reference and assembled genome (Salmonella enterica) using variant calling. Specifically, there is a transversion mutation at the sopA gene (Adenine to Cytosine). While the 'A' belongs to the reference genome, the 'C' is part of the assembled genome.
 </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8df316f5-7ab6-430d-9c19-54528318f861" width="700" />
     <br>
-  <em>Figure 1.1: Visualization of the differences between the reference and assembled genome (Salmonella Enterica) using variant calling. Specifically, there is a transition mutation at the pduk gene (Thymine to Cytosine). While the 'T' belongs to the reference genome, the 'C' is part of the assembled genome.
+  <em>Figure 1.1: Visualization of the differences between the reference and assembled genome (Salmonella enterica) using variant calling. Specifically, there is a transition mutation at the pduk gene (Thymine to Cytosine). While the 'T' belongs to the reference genome, the 'C' is part of the assembled genome.
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@ The visualized differences between the reference and assembled genomes were anal
 
   **Discussion**
 
-  When comparing the reference and assembled genomes, 1060 SNPs were found in total. For example, Figure 1.0 shows a transversion (Adenine to Cytosine), and Figure 1.1 shows a transition (Thymine to Cytosine), where the first base represents the reference genome and the second the assembled genome. These differences may have a key effect on the survival and infectious potential of S. Enterica. For instance, a single SNP in the promoter region of the ptgE gene can enhance its resistance to human serum (Hammarlöf et al., 2018), which contains antibiotic properties. However, our examination of the annotated genome suggested that the coding regions were largely conserved with respect to small insertions or deletions. This is consistent with the findings of Pang et al. (2013), which suggested that in six S. enterica strains, there were only 7 indels and up to 922 SNPs. As these indels were associated with the inactivation of virulence-related genes (Pang et al., 2013), our findings suggest that the reference and assembled genomes are largely similar in these regions. As such, major differences in virulence between the analyzed genomes are unlikely.
+  When comparing the reference and assembled genomes, 1060 SNPs were found in total. For example, Figure 1.0 shows a transversion (Adenine to Cytosine), and Figure 1.1 shows a transition (Thymine to Cytosine), where the first base represents the reference genome and the second the assembled genome. These differences may have a key effect on the survival and infectious potential of S. enterica. For instance, a single SNP in the promoter region of the ptgE gene can enhance its resistance to human serum (Hammarlöf et al., 2018), which contains antibiotic properties. However, our examination of the annotated genome suggested that the coding regions were largely conserved with respect to small insertions or deletions. This is consistent with the findings of Pang et al. (2013), which suggested that in six S. enterica strains, there were only 7 indels and up to 922 SNPs. As these indels were associated with the inactivation of virulence-related genes (Pang et al., 2013), our findings suggest that the reference and assembled genomes are largely similar in these regions. As such, major differences in virulence between the analyzed genomes are unlikely.
 
 Regarding the assembled genome, three contigs were visualized. As seen in Figures 3.0 to 3.2, contig 2 has a relatively higher coverage than contigs 3 and 4. Such differences in coverage may reflect that contig 2 represents plasmid DNA, while the other contigs likely represent chromosomal DNA. This is supported by Antipov et al. (2016), who demonstrated that plasmids and chromosomes can have different read coverages arising from distinct copy numbers. It is, however, important to note that minor technical biases during the flye-based assembly may have affected coverage. This may require further investigation.
 
